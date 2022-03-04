@@ -2,7 +2,7 @@
 
 ### I'm Software Engineer 👨‍💻
 
-- 🌱 I’m currently learning about **IAM** domain
+- 🌱 I’m a Java guy
 - 🔭 I love to learn new things
 - 💲 I'm a crypto enthusiast! 
 - 🤖 I would like to explore AI in deep
