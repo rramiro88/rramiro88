@@ -3,8 +3,7 @@
 ### I'm Software Engineer 👨‍💻
 
 - 🌱 I’m a Java guy
-- 🔭 I love to learn new things
-- 💲 I'm a crypto enthusiast! 
+- 🔭 I love to learn new things, now exploring React, Javascript and Typescript
 - 🤖 I would like to explore AI in deep
 
 ### Connect with me:
@@ -17,11 +16,6 @@
   </a>
 
 <br />
-<br />
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rramiro88&count_private=true&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<hr/>
 
 ### Languages and tools:
 <img align="left" height="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="55"/>
